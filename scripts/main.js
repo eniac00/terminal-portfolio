@@ -96,7 +96,7 @@ async function getInputValue(){
         trueValue(value);
 
         createText("A stranger just passing through this world.");
-        createText("Who is eager to learn more about new technologies and deeply interested in computer system and security. A GNU/Linux enthusiast and open source admirer. Moreover, a guy who is greatly influenced by minimalist philosophy. Knows `Morse Code` by heart.");
+        createText("Who is eager to learn more about new technologies and deeply interested in computer system and security. A GNU/Linux enthusiast and open source admirer. Moreover, a guy who is greatly influenced by minimalist philosophy. Loves the 'C' programming language and knows `Morse Code` by heart");
         createText("<span style='font-size: 14px;'>- -.-- .--. . / .-- .. ... -.. --- --</span>")
 
   } else if(value === "social") {
