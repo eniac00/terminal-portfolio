@@ -106,12 +106,7 @@ async function getInputValue(){
         createText("<a href='https://github.com/eniac00' target='_blank'><i class='fab fa-github white'></i> github.com/eniac00</a>")
         createText("<a href='https://www.linkedin.com/in/abir-ahammed-bhuiyan' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/abir-ahammed-bhuiyan</a>")
         createText("<a href='https://www.facebook.com/alexsmithir/' target='_blank'><i class='fab fa-facebook white'></i> facebook.com/abir-ahammed-bhuiyan</a>")
-
-  } else if(value === "social") {
-
-        trueValue(value);
-
-        createText("Didn't you mean: social?")
+        createText("<a href='https://www.youtube.com/channel/UCXft-2Onob7yMH0R5cfae1g' target='_blank'><i class='fab fa-youtube white'></i> youtube/zukhruf</a>")
 
   } else if(value === "clear") {
 
