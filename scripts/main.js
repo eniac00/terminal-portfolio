@@ -86,7 +86,7 @@ async function getInputValue(){
         trueValue(value);
 
         createText("<a href='https://abrar2akib.github.io/barood_du' target='_blank'><i class='fa fa-globe'></i> A knowledge sharing platform for DU</a>")
-        createText("<a href='https://preprereg.herokuapp.com' target='_blank'><i class='fa fa-globe'></i> Pre-registration utility for BracU</a>")
+        createText("<a href='https://preprereg.vercel.app' target='_blank'><i class='fa fa-globe'></i> Pre-registration utility for BracU</a>")
         createText("<a href='https://github.com/altair00/XL-PPTX' target='_blank'><i class='fab fa-github white'></i> Bulk find and replace in ms-powerpoint using ms-excel </a>")
         createText("<a href='https://eniac00.github.io/btv' target='_blank'><i class='fa fa-globe'></i> Binary tree visualizer from an array</a>")
         createText("<a href='https://github.com/altair00/encryptor' target='_blank'><i class='fab fa-github white'></i> Pigpen cipher's python tkinter version</a>")
